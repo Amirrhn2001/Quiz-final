@@ -1,0 +1,16 @@
+{
+    "_id": "ffec2bbb-59de-4ad3-8de7-7b51bbb80788",
+    "acnt_uuid": "ffec2bbb-59de-4ad3-8de7-7b51bbb80788",
+    "acnt_title": "test",
+    "owner_uuid": "",
+    "admin_uuid": "",
+    "config": {
+        "min_tag": 1,
+        "has_audit": true
+    },
+    "services": [{
+        "service_key": "",
+        "acnt_uuid": ""
+    }],
+    "status": 1
+}
